@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Mini tomate
     url: https://minitomate.com
-  - name: Kipad
-    url: https://kipad.net
+  - name: Kipad Animation
+    url: https://kipad.net/
     maxResponseTime: 5000
 
 status-website:
