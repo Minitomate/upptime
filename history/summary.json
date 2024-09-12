@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/minitomate.com.ico",
     "slug": "mini-tomate",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.68%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
     "time": 912,
     "timeDay": 835,
     "timeWeek": 912,
     "timeMonth": 912,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-12": 84,
+      "2024-09-11": 36
     }
   },
   {
@@ -36,7 +37,8 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-09-11": 1404,
+      "2024-09-12": 84,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
