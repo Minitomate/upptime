@@ -1,7 +1,7 @@
 url: https://kipad.net/
-status: down
+status: degraded
 code: 403
-responseTime: 149
-lastUpdated: 2025-03-09T23:08:21.169Z
+responseTime: 5140
+lastUpdated: 2025-03-10T14:16:06.787Z
 startTime: 2024-09-05T16:52:56.546Z
 generator: Upptime <https://github.com/upptime/upptime>
