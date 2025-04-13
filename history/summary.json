@@ -16,7 +16,7 @@
     "timeMonth": 4377,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-04-13": 1333,
+      "2025-04-13": 1351,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -78,17 +78,17 @@
     "url": "https://kipad.net/",
     "icon": "https://icons.duckduckgo.com/ip3/kipad.net.ico",
     "slug": "kipad-animation",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "64.63%",
-    "uptimeMonth": "85.69%",
-    "uptimeYear": "98.02%",
-    "time": 310,
-    "timeDay": 497,
-    "timeWeek": 333,
-    "timeMonth": 334,
-    "timeYear": 310,
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "64.62%",
+    "uptimeMonth": "85.80%",
+    "uptimeYear": "98.04%",
+    "time": 309,
+    "timeDay": 379,
+    "timeWeek": 331,
+    "timeMonth": 333,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-04-13": 1333,
       "2025-04-12": 1440,
@@ -106,7 +106,7 @@
       "2025-03-31": 630,
       "2025-03-30": 419,
       "2025-03-29": 409,
-      "2025-03-28": 362
+      "2025-03-28": 310
     }
   }
 ]
