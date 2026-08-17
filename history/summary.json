@@ -4,17 +4,17 @@
     "url": "https://minitomate.com",
     "icon": "https://icons.duckduckgo.com/ip3/minitomate.com.ico",
     "slug": "mini-tomate",
-    "status": "down",
+    "status": "up",
     "uptime": "74.07%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "96.65%",
     "uptimeWeek": "87.74%",
-    "uptimeMonth": "68.72%",
-    "uptimeYear": "66.27%",
+    "uptimeMonth": "68.61%",
+    "uptimeYear": "66.26%",
     "time": 1122,
-    "timeDay": 28976,
-    "timeWeek": 7305,
-    "timeMonth": 3526,
-    "timeYear": 1207,
+    "timeDay": 19612,
+    "timeWeek": 6663,
+    "timeMonth": 3421,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2025-08-30": 1216,
       "2025-08-29": 988,
@@ -149,7 +149,7 @@
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 785,
-      "2026-08-17": 0
+      "2026-08-17": 48
     }
   },
   {
@@ -158,7 +158,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kipad.net.ico",
     "slug": "kipad-animation",
     "status": "down",
-    "uptime": "42.58%",
+    "uptime": "42.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -169,7 +169,7 @@
     "timeMonth": 584,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2026-08-17": 161,
+      "2026-08-17": 209,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
