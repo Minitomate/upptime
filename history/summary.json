@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/minitomate.com.ico",
     "slug": "mini-tomate",
     "status": "down",
-    "uptime": "73.94%",
+    "uptime": "73.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.34%",
-    "uptimeMonth": "62.36%",
-    "uptimeYear": "65.74%",
+    "uptimeWeek": "58.16%",
+    "uptimeMonth": "59.09%",
+    "uptimeYear": "65.47%",
     "time": 1119,
-    "timeDay": 540,
-    "timeWeek": 6408,
-    "timeMonth": 3242,
+    "timeDay": 921,
+    "timeWeek": 6396,
+    "timeMonth": 3240,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-08-30": 1216,
@@ -150,7 +150,8 @@
       "2026-08-02": 1440,
       "2026-08-01": 785,
       "2026-08-17": 48,
-      "2026-08-21": 94,
+      "2026-08-22": 83,
+      "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1206
     }
@@ -161,18 +162,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kipad.net.ico",
     "slug": "kipad-animation",
     "status": "down",
-    "uptime": "42.34%",
+    "uptime": "42.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 749,
-    "timeDay": 42,
-    "timeWeek": 243,
-    "timeMonth": 558,
+    "time": 748,
+    "timeDay": 75,
+    "timeWeek": 210,
+    "timeMonth": 551,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2026-08-21": 94,
+      "2026-08-22": 83,
+      "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -535,8 +537,7 @@
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
-      "2025-08-23": 1440,
-      "2025-08-22": 1440
+      "2025-08-23": 1440
     }
   }
 ]
